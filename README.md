@@ -10,3 +10,7 @@ It has 7 features:
   7. Sharing of Image in chat and group
   
 It's an inspiration from Dribbble and Behance. 
+
+Language: Java and XML
+Database: Firebase Realtime Database
+Software: Android Studio 4.1.1
